@@ -1,4 +1,4 @@
-# Ionic Standalone Version 8.7.1 Capacitor 7.x In App Browser Plugin Demo
+# Ionic Standalone Version 8.x Capacitor 7.x In App Browser Plugin Demo
 ## Steps: 
 
 - git clone
