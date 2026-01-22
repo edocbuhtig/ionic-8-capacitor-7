@@ -3,7 +3,7 @@
 
 - git clone
 - npm install
-- For Real Device, Minmum Android SDK API should be 26, in the (Gradle) variables file
+- For Real Device, Minmum Android SDK API should be 26, in the (/android/variables.grsdle)  file
 - ionic cap add android
 - ionic cap build
 - ionic cap sync
